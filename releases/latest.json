@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minShell": "1.0.0",
-  "url": "origonex-learn-code-1.0.0.zip",
-  "sha256": "9865b331c6948d259da1379e698b9d90ed1874f44b6ed3bb63de2cc761e2629f",
-  "notes": "First version of OrigoNex Learn for Windows: subjects, revision notes, flashcards, quizzes, AI tutor, safety filter, parent report and Google Calendar planner.",
-  "size": 85378,
+  "url": "origonex-learn-code-1.1.0.zip",
+  "sha256": "24b8cb6eab02ef8760e6779424233495e1930c47fc624c2d5afdbabe784fd091",
+  "notes": "Mind map notes, flashcards that mark your typed answers, a Back button on flashcards, your own topics and subjects, shuffled quiz answers with explanations of wrong choices, your recent scores, clearer colours, and kinder safety messages.",
+  "size": 92638,
   "released": "2026-11-14",
   "shellVersion": "1.0.0",
   "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
