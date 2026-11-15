@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "minShell": "1.0.0",
-  "url": "origonex-learn-code-1.3.0.zip",
-  "sha256": "54bdf721737e919e1af0945a76039a26159baf813186d558d0b5f333b4473132",
-  "notes": "Lessons are now cartoon-style: animated scenes, Nex the talking robot guide, colourful answer tiles, stars, confetti and sound effects. Choose the voice you like. Lessons, mind maps, flashcards and quizzes are saved, so you can open them again instantly without waiting.",
-  "size": 108236,
+  "url": "origonex-learn-code-1.4.0.zip",
+  "sha256": "4ee356034e37dd2a7dd465362f5a60a8901788edb373ddb184156b5af5b9e317",
+  "notes": "Natural voice for lessons: the app downloads a free, offline British voice (Jenny) by itself and uses it to read lessons. If it isn't ready yet, lessons use the normal Windows voice.",
+  "size": 111652,
   "released": "2026-11-15",
   "shellVersion": "1.0.0",
   "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
