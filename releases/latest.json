@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "minShell": "1.0.0",
-  "url": "origonex-learn-code-1.2.0.zip",
-  "sha256": "2f54976dcd6a064172093f8b2e6ce36f33694cef1bbbab31320a35d0b2c285a3",
-  "notes": "New: Watch a lesson (5 or 10 minute animated lessons read aloud, with quick questions). Planner now shows a week at a time, and tests have one-tap Lesson, Mind map, Flashcards, Quiz and Plan buttons. Parents can pick and test the calendar in Parent settings.",
-  "size": 98972,
+  "url": "origonex-learn-code-1.3.0.zip",
+  "sha256": "54bdf721737e919e1af0945a76039a26159baf813186d558d0b5f333b4473132",
+  "notes": "Lessons are now cartoon-style: animated scenes, Nex the talking robot guide, colourful answer tiles, stars, confetti and sound effects. Choose the voice you like. Lessons, mind maps, flashcards and quizzes are saved, so you can open them again instantly without waiting.",
+  "size": 108236,
   "released": "2026-11-15",
   "shellVersion": "1.0.0",
   "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
