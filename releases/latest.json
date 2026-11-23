@@ -1,10 +1,10 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "minShell": "1.0.0",
-  "url": "origonex-learn-code-1.5.0.zip",
-  "sha256": "8c8f7e1a299c9182347f211d5e230d857adb140ee6c4f7d393f30ee132b34ab1",
-  "notes": "Today's review (missed cards come back), My progress page with progress map, badges and weekly goal, Mixed review, Explain it back, revision plans for tests, paste your school's topic list, easier-reading mode, Try again and offline help, a waiting screen with Cancel, and bundled fonts.",
-  "size": 264499,
+  "url": "origonex-learn-code-1.6.0.zip",
+  "sha256": "7e98849997c3acc538c0522a27b00f38b8cb859f2c1a782bd469c2be096dd039",
+  "notes": "Stars and levels: earn stars for lessons, quizzes, reviews and your weekly goal, level up and unlock colours, hats and celebrations for Nex. Parents: weekly email report.",
+  "size": 272066,
   "released": "2026-11-23",
   "shellVersion": "1.0.0",
   "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
