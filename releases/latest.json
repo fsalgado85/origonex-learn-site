@@ -1,0 +1,11 @@
+{
+  "version": "1.4.1",
+  "minShell": "1.0.0",
+  "url": "origonex-learn-code-1.4.1.zip",
+  "sha256": "187e5375f8146c6c0b37974f706b7d31a22fd0ec103e100a35ec1fbed19ab5d3",
+  "notes": "Fix: school topics such as Forces were sometimes wrongly blocked as off-topic.",
+  "size": 111987,
+  "released": "2026-11-15",
+  "shellVersion": "1.0.0",
+  "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
+}
