@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "minShell": "1.0.0",
-  "url": "origonex-learn-code-1.4.1.zip",
-  "sha256": "187e5375f8146c6c0b37974f706b7d31a22fd0ec103e100a35ec1fbed19ab5d3",
-  "notes": "Fix: school topics such as Forces were sometimes wrongly blocked as off-topic.",
-  "size": 111987,
-  "released": "2026-11-15",
+  "url": "origonex-learn-code-1.5.0.zip",
+  "sha256": "8c8f7e1a299c9182347f211d5e230d857adb140ee6c4f7d393f30ee132b34ab1",
+  "notes": "Today's review (missed cards come back), My progress page with progress map, badges and weekly goal, Mixed review, Explain it back, revision plans for tests, paste your school's topic list, easier-reading mode, Try again and offline help, a waiting screen with Cancel, and bundled fonts.",
+  "size": 264499,
+  "released": "2026-11-23",
   "shellVersion": "1.0.0",
   "reinstallUrl": "https://fsalgado85.github.io/origonex-learn-site/"
 }
